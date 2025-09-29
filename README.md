@@ -1,6 +1,6 @@
 # PL/SQL Window Functions – Mastery Project
 
-**Repository:** `plsql-window-functions-Mugabo-Bonheur`  
+**Repository:** plsql-window-functions-Mugabo-Bonheur 
 **Course:** INSY 8311 – Database Development with PL/SQL  
 **Instructor:** Eric Maniraguha – eric.maniraguha@auca.ac.rw  
 **ID:** 27786
@@ -167,4 +167,4 @@ All sources are properly cited. Implementations and analysis represent original 
 
 **Professional & Ethical Note:**  
 *"Whoever is faithful in very little is also faithful in much." – Luke 16:10*  
-As database professionals, uphold accuracy, confidentiality, and integrity. Your reputation is built on consistent honesty, quality, and responsibility.
+As database professionals, uphold accuracy, confidentiality, and integrity. The reputation is built on consistent honesty, quality, and responsibility.

@@ -3,9 +3,7 @@
 **Repository:** `plsql-window-functions-Mugabo-Bonheur`  
 **Course:** INSY 8311 – Database Development with PL/SQL  
 **Instructor:** Eric Maniraguha – eric.maniraguha@auca.ac.rw  
-**ID**27786
-**Assignment Date:** September 19, 2025 
-**Deadline:** September 29, 2025  
+**ID:** 27786
 
 ---
 
@@ -73,7 +71,7 @@ The project demonstrates mastery of PL/SQL window functions by achieving the fol
 - `products → transactions` (1:N)  
 
 **ER Diagram:**  
-![ER Diagram](screenshots/er_diagram.png)  
+![ER Diagram](Screenshots/er_diagram.png)  
 
 **Table Creation Scripts:**  
 - `schema.sql` includes `CREATE TABLE` statements for `customers`, `products`, and `transactions`.  
